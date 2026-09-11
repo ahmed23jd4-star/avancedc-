@@ -11,7 +11,15 @@ namespace advancedc_01
             //هو عباره عن اني بخليه بشكل عام واحد نوع داتا تايب لما اجي استخدم الكلاس ده وبعد تحديد داتا اي حاجه كنت مسميها ب اسم جينيريك بتتحول للي كتبته
             // beteer performance , readsabilty , وعدم تكرار الكود لكل داتا تايب
             #endregion
-
-        }
+            #region advancedc#q2
+            //Q2: Write a generic class Container<T> with Add and Get methods.
+        //     public class tese<t>
+        //{
+        //}
+        // public t testmethod<t>(t value){
+        //
+        // }
+            #endregion
+    }
     }
 }
