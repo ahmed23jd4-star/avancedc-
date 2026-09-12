@@ -92,6 +92,11 @@ namespace advancedc_01
             // يعني وارث من كلاس معين
             //public class test<T> where T: baseclass { }
             #endregion
+            #region advancedc#q12
+            //Q12: How do you apply multiple constraints? Write an example.
+            //public class test<T> where T: baseclass,Itest,Ianotherinterface,new() { }
+
+            #endregion
 
         }
 
