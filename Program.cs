@@ -82,6 +82,11 @@ namespace advancedc_01
             //  where t is exist paramterless constructor 
             //public class test<T> where T: new() { }
             #endregion
+            #region advancedc#q10
+            //Q10: What is the interface constraint? Write an example.
+            //where t implment interface 
+            //public class test<T> where T: Itest { }     ///// such Itest is interface 
+            #endregion
 
         }
 
@@ -90,5 +95,6 @@ namespace advancedc_01
 
     }
 
-  
+
+
 }
