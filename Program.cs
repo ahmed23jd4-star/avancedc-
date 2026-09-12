@@ -77,6 +77,11 @@ namespace advancedc_01
             //  class ان اي نوع يتم تحديده يبقي 
             //public class test<T> where T: class { }
             #endregion
+            #region advancedc#q9
+            //Q9: What is the 'new()' constraint? Write an example.
+            //  where t is exist paramterless constructor 
+            //public class test<T> where T: new() { }
+            #endregion
 
         }
 
