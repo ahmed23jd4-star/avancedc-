@@ -55,10 +55,21 @@ namespace advancedc_01
             //    return res;
             //}
             #endregion
+            #region advancedc#q6
+            //Q6: What is a generic interface? Write IRepository<T>.
+            // نفس فكره الجينريك بس الفرق اني هخليه انترفيس فاي حد يمضي العقد يحدد نوع الداتا واي 
+            // method signture  بتعتمد علي نوع داتا فهتتحول للنوع الي حدده لما جيت امضي العقد
+            //  //public interface test<T>
+            //{
+
+            //}
+            #endregion
 
         }
 
 
 
+
     }
+  
 }
