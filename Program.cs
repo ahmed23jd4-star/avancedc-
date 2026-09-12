@@ -36,8 +36,28 @@ namespace advancedc_01
             //    b = temp;            
             //}
             #endregion
+            #region advancedc#q5
+            //Q5: Write a generic method FindMax<T> that finds maximum value
+
+            //public T findmax<T>(T[] arravalue) where T:IComparable<T>
+            //{
+            //    T res = arravalue[0];
+
+            //    for (int i =0;i<arravalue.Length;i++)
+            //    {
+            //        if (res.CompareTo(arravalue[i]) < 0)
+            //        {
+            //            res = arravalue[i];
+            //        }
+
+            //    }
+
+            //    return res;
+            //}
+            #endregion
 
         }
+
 
 
     }
