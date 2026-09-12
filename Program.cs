@@ -1,5 +1,7 @@
 ﻿
+using System.ComponentModel;
 using System.Data;
+using System.Numerics;
 using System.Reflection.Metadata;
 
 namespace advancedc_01
@@ -143,16 +145,22 @@ namespace advancedc_01
 
             #endregion
             #region advancedc#q19
-        //Q19: How can you inherit from a generic class?
-        //public class test : test2<string>{}
+            //Q19: How can you inherit from a generic class?
+            //public class test : test2<string>{}
+            #endregion
+            #region advancedc#q20
+            //Q20: Complete Exercise -Create a generic Cache < TKey,
+            //TValue> with Add, Get, Remove, Contains, and expiration support.
+
+            //public class cashe<Tkey, Tvalue>
+            //{
+            //    public Tkey keyy { get; set; }
+            //    public Tvalue value { get; set; }
+            //}
+
             #endregion
 
         }
-
-
-
-
-
     }
 
 
