@@ -137,10 +137,14 @@ namespace advancedc_01
 
             #endregion
             #region advancedc#q18
-        //Q18: How do static members work in generic types ?
-        // بيكون لكل نسخه ستاتيك مرتبط بكل اوبجكت يتعمل بنفس الصنف ونفس الداتا يعني لو عملت اوبجكت واخترت ان الداتا تبقي نص فسعتها يتحول لنص ويفضب
-        //ويفضل ثابت معايا لو عملت اوبجكت تاني برضه من نوع النص
+            //Q18: How do static members work in generic types ?
+            // بيكون لكل نسخه ستاتيك مرتبط بكل اوبجكت يتعمل بنفس الصنف ونفس الداتا يعني لو عملت اوبجكت واخترت ان الداتا تبقي نص فسعتها يتحول لنص ويفضب
+            //ويفضل ثابت معايا لو عملت اوبجكت تاني برضه من نوع النص
 
+            #endregion
+            #region advancedc#q19
+        //Q19: How can you inherit from a generic class?
+        //public class test : test2<string>{}
             #endregion
 
         }
