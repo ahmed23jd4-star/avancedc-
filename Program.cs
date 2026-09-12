@@ -97,6 +97,10 @@ namespace advancedc_01
             //public class test<T> where T: baseclass,Itest,Ianotherinterface,new() { }
 
             #endregion
+            #region advancedc#q13
+        //Q13: What does the 'default' keyword do in generics ?
+        // يعني رجعلي القيمه الافتراضيه لنوع البيانات الي انا هحدده بعدين 
+            #endregion
 
         }
 
