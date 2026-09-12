@@ -1,4 +1,6 @@
 ﻿
+using System.Data;
+
 namespace advancedc_01
 {
     internal class Program
@@ -64,6 +66,11 @@ namespace advancedc_01
 
             //}
             #endregion
+            #region advancedc#q7
+            //Q7: What is the 'struct' constraint? Write an example.
+            //  structبجبر ان اي نوع يتم تحديده يبقي 
+            //public class test<T> where T: struct { }
+            #endregion
 
         }
 
@@ -71,5 +78,6 @@ namespace advancedc_01
 
 
     }
+
   
 }
