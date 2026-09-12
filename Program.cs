@@ -1,5 +1,6 @@
 ﻿
 using System.Data;
+using System.Reflection.Metadata;
 
 namespace advancedc_01
 {
@@ -70,6 +71,11 @@ namespace advancedc_01
             //Q7: What is the 'struct' constraint? Write an example.
             //  structبجبر ان اي نوع يتم تحديده يبقي 
             //public class test<T> where T: struct { }
+            #endregion
+            #region advancedc#q8
+            //Q8: What is the 'class' constraint? Write an example.
+            //  class ان اي نوع يتم تحديده يبقي 
+            //public class test<T> where T: class { }
             #endregion
 
         }
