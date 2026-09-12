@@ -114,6 +114,12 @@ namespace advancedc_01
 
             //}
             #endregion
+            #region advancedc#q15
+            //Q15: What is covariance? Explain the 'out' keyword.
+            // public interface test <out T> {}
+            //هو عباره عن انترفيس جينيريك بس بحدد ان نوع الجينيريك يبقي OUT بس 
+            //يعني T is return type of methods 
+            #endregion
 
         }
 
