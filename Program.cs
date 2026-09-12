@@ -87,6 +87,11 @@ namespace advancedc_01
             //where t implment interface 
             //public class test<T> where T: Itest { }     ///// such Itest is interface 
             #endregion
+            #region advancedc#q11
+            //Q11: What is the base class constraint? Write an example.
+            // يعني وارث من كلاس معين
+            //public class test<T> where T: baseclass { }
+            #endregion
 
         }
 
