@@ -120,6 +120,12 @@ namespace advancedc_01
             //هو عباره عن انترفيس جينيريك بس بحدد ان نوع الجينيريك يبقي OUT بس 
             //يعني T is return type of methods 
             #endregion
+            #region advancedc#q16
+            //Q16: What is contravariance? Explain the 'in' keyword.
+            // public interface test <in T> {}
+            // can use T in paramater in method or any input but can,t use output
+            
+            #endregion
 
         }
 
