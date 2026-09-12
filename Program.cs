@@ -13,13 +13,20 @@ namespace advancedc_01
             #endregion
             #region advancedc#q2
             //Q2: Write a generic class Container<T> with Add and Get methods.
-        //     public class tese<t>
-        //{
-        //}
-        // public t testmethod<t>(t value){
-        //
-        // }
+            //     public class tese<t>
+            //{
+            //}
+            // public t testmethod<t>(t value){
+            //
+            // }
             #endregion
-    }
+            #region avancedc#q3
+            //Q3:What are multiple type parameters? Write Pair<TKey,TValue >.
+            //     public class tese<Tkey,Tvalue>
+            //{
+            //}
+            #endregion
+        }
+
     }
 }
