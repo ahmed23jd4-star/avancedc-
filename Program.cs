@@ -98,11 +98,25 @@ namespace advancedc_01
 
             #endregion
             #region advancedc#q13
-        //Q13: What does the 'default' keyword do in generics ?
-        // يعني رجعلي القيمه الافتراضيه لنوع البيانات الي انا هحدده بعدين 
+            //Q13: What does the 'default' keyword do in generics ?
+            // يعني رجعلي القيمه الافتراضيه لنوع البيانات الي انا هحدده بعدين 
+            #endregion
+            #region advancedc#q14
+            //Q14: Write a SafeList < T > that returns default when the index is invalid.
+
+            //public T safelist<T>(T list)
+            //{
+            //    //if valid
+            //    //return 
+
+            //    //if not valid
+            //    return default (T) ;
+
+            //}
             #endregion
 
         }
+
 
 
 
