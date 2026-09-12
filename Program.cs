@@ -26,13 +26,19 @@ namespace advancedc_01
             //{
             //}
             #endregion
-            #region avancedc#q4
+            #region correctavancedc#q4
             //Q4: What is a generic method? Write Swap<T> method.
-            // public T swap<T>(T value){
-            //      return value ;
-            // }
+            //public void swap<T>(ref T a ,ref T b)
+            //{
+            //    T temp;
+            //    temp = a;
+            //    a = b;
+            //    b = temp;            
+            //}
             #endregion
+
         }
+
 
     }
 }
