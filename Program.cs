@@ -124,7 +124,17 @@ namespace advancedc_01
             //Q16: What is contravariance? Explain the 'in' keyword.
             // public interface test <in T> {}
             // can use T in paramater in method or any input but can,t use output
-            
+
+            #endregion
+            #region advancedc#q17
+            //        Q17: What is the difference between covariance and contravariance?
+            // الفرق مبنهم زي مذكرت فوق واحد بيستقبل بس والتاني بيرترن بس   بس خلينا ندي مثال \
+            // لو انا حلتها in T   فسعتها لو عملت كلاس بامبلمينت الانترفيس وحدد الداتا تايب بتاعته ل كلاس اسمه  fruit
+            // بعدها هقدر اني اخرن الاوبجكت الي عملته ده في عنوان من نوع انترفيس بس بياخد apple
+            // طب ازاي ده بيحصل سعتها لما عملت ريفيرنس بايلمبينت التفاح فسعتها  اسم الاوبجكت ده اتحول اي ميثود انها تستقبل تفاح
+            // فهل التفاح ينفع يحل محل الفاكهه اه فده كده contravarivce 
+            //طبعا ال variance  العمس
+
             #endregion
 
         }
