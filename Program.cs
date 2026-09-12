@@ -136,6 +136,12 @@ namespace advancedc_01
             //طبعا ال variance  العمس
 
             #endregion
+            #region advancedc#q18
+        //Q18: How do static members work in generic types ?
+        // بيكون لكل نسخه ستاتيك مرتبط بكل اوبجكت يتعمل بنفس الصنف ونفس الداتا يعني لو عملت اوبجكت واخترت ان الداتا تبقي نص فسعتها يتحول لنص ويفضب
+        //ويفضل ثابت معايا لو عملت اوبجكت تاني برضه من نوع النص
+
+            #endregion
 
         }
 
